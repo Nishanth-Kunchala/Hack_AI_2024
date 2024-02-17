@@ -13,7 +13,7 @@ const structure = {
 }
 
 refactor("Mild", mildFolder);
-// refactor("Moderate", modFoler);
+refactor("Moderate", modFoler);
 refactor("Non", nonFolder);
 refactor("VMild", vmildFolder);
 
