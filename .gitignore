@@ -1,5 +1,5 @@
-.DS_Store
-Hack_AI_2024_DATA
-.idea
-Data
+*.DS_Store
+Hack_AI_2024_DATA/
+.idea/
+Data/
 
