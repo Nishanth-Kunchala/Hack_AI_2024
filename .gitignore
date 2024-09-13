@@ -1,4 +1,9 @@
-.DS_Store
-Hack_AI_2024_DATA
-.idea
-Data
+*.DS_Store
+Hack_AI_2024_DATA/
+.idea/
+Data/
+Stacks/
+models/
+.ipynb_checkpoints
+Stacks2/
+Test/
