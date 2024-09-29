@@ -40,6 +40,10 @@ Loss and accuracy graphs:
 ![Accuracy Graph](accuracy.png)
 ![Loss Graph](loss.png)
 
+Confusion matrix:
+
+![Confusion Matrix](confusion_matrix.png)
+
 ___
 
 [Back to Top](#dementia-ai-classification)
